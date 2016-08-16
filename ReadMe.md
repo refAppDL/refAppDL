@@ -2,4 +2,6 @@
 
 ## this is an app for keeping up with the oneself
 
-# In case you are wondering I just fixed this thing. 
+# In case you are wondering I just fixed this thing.
+
+# git changes fixed. 
